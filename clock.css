@@ -1,0 +1,18 @@
+body{
+    
+    background-color: gray;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: green;
+    color: white;
+    border: solid 2px black;
+    margin: 20% auto;
+    height: 100px;
+    text-align: center;
+    width: 250px;
+    font-size: 30px;
+    
+}
